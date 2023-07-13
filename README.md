@@ -1,8 +1,6 @@
-[![MasterHead](https:https://www.bing.com/images/search?view=detailV2&ccid=%2bDS3Sqjr&id=775BC7A9F0488A0110CC729069AE409DF24B4A09&thid=OIP.-DS3SqjrxNhcwCUkfuT1RwHaEt&mediaurl=https%3a%2f%2fwww.softwebsolutions.com%2fwp-content%2fuploads%2f2020%2f09%2fFlutter-App-development.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f834b74aa8ebc4d85cc025247ee4f547%3frik%3dCUpL8p1ArmmQcg%26pid%3dImgRaw%26r%3d0&exph=496&expw=780&q=flutter+developer+theme&simid=608019150310292282&FORM=IRPRST&ck=2BE3E57C49C67A2C621E9994CA428A06&selectedIndex=4&ajaxhist=0&ajaxserp=0)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Kareem Abdeen</h1>
 <h3 align="center">A passionate frontend developer from eygpt</h3>
-<img align="right"> alt="Coding" Width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=mpKmlXKQ&id=5BB68F7166E3DBE2A9BC567270CD16D9E2B8EADE&thid=OIP.mpKmlXKQhRJkkllk-2eaIwHaEL&mediaurl=https%3a%2f%2fak.picdn.net%2fshutterstock%2fvideos%2f1010270171%2fthumb%2f10.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9a92a6957290851264925964fb679a23%3frik%3d3uq44tkWzXByVg%26pid%3dImgRaw%26r%3d0&exph=480&expw=852&q=animated+images+for+programmers&simid=608047814936823547&FORM=IRPRST&ck=488473E83031F780962DD7C0D6A44088&selectedIndex=22">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collaborate&label=Profile%20views&color=0e75b6&style=flat" alt="collaborate" /> </p>
