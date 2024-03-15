@@ -1,15 +1,15 @@
 <div align="center">
-  <img height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width: 60vw;" />
+  <img height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width: 40vw;" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aya-nady-8b7546199/" target="_blank">
+  <a href="https://www.linkedin.com/in/kareem-abdeen-06a4bb203/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="ayanady22193@gmail.com" target="_blank">
+  <a href="kareemabdeen22@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
